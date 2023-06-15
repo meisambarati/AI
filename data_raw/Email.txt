@@ -1,0 +1,35 @@
+hello,
+we need to change JSON schema defination due to international bank regultaory. 
+please do not use exclusiveMaximum. 
+
+best regards
+director of xxxxxx
+15.06.2023
+
+
+
+Hello, 
+Security Scheme Object should be extended in the next year. please add one more fielde as follow:
+Fielde Name: Family 
+Type: String
+Applies to: openIdConnect
+16.6.2023
+
+
+Hello, 
+Security Scheme Object should be extended in the two next year. please change type of Family Fielde as follow:
+Fielde Name: Family         old 
+Fielde Name: Family name    New 
+Type: String
+Applies to: openIdConnect
+16.6.2023
+
+
+ 
+
+
+
+
+
+
+
