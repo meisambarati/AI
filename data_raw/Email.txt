@@ -23,3 +23,13 @@ Field Name: Family name    New
 Type: String
 Applies to: openIdConnect
 16.6.2023
+
+
+
+Hello,
+Thank you for notifying us. We have updated the JSON schema definition to comply with international bank regulations and removed the exclusiveMaximum attribute. As for the Security Scheme Object, we will add the new field as per your request. We appreciate your input and collaboration. 
+Best regards,
+[Your Name/Team]
+
+
+We need to modify the JSON schema definition in compliance with international banking regulations. The Path Item describes a single path's operations, and it may be empty based on Access Control List (ACL) constraints. Despite being visible to the documentation viewer, they will not know the available operations on the path due to its empty state.
