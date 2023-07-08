@@ -1,0 +1,32 @@
+KYC (Know Your Customer) Requirements for New and Existing Users with 6-Month Updates
+
+Introduction
+This document establishes the KYC (Know Your Customer) requirements for both new and existing users of our platform. The purpose of KYC is to verify the identity and mitigate the risks associated with financial transactions. To ensure ongoing compliance, all users, both new and existing, must undergo KYC verification at the time of onboarding and at regular intervals of every six months.
+
+KYC Process for New Users
+2.1. Onboarding
+a. New users must provide accurate and complete personal information during the onboarding process.
+b. Mandatory documents, such as government-issued identification, proof of address, and other relevant supporting documents, must be submitted.
+
+2.2. Identity Verification
+a. Our platform will conduct a thorough identity verification process using reliable and secure methods.
+b. Users may be required to provide additional information or undergo further verification steps to confirm their identity.
+
+KYC Process for Existing Users
+3.1. 6-Month Update Requirement
+a. Existing users must update their KYC information every six months from the date of their last verification.
+b. Failure to update KYC information within the specified timeframe may result in restricted access to certain platform features.
+3.2. Information Update Process
+a. Existing users will be notified through official communication channels regarding the upcoming KYC update requirement.
+b. Users will be guided on how to provide updated information and may be requested to submit any necessary documents for verification.
+
+Compliance and Penalties
+4.1. Non-Compliance
+a. Users who fail to comply with the KYC requirements, including providing accurate and up-to-date information, may face account restrictions or suspension.
+b. Our platform reserves the right to take appropriate action, including terminating the user's account, if there are any suspicions of fraudulent activity or non-compliance with KYC regulations.
+4.2. Data Protection and Privacy
+a. User information collected during the KYC process will be treated with the utmost confidentiality and in compliance with applicable data protection laws.
+b. User data will be securely stored and used solely for the purpose of KYC verification and ensuring regulatory compliance.
+
+Conclusion
+KYC verification is a critical process that helps maintain a secure and compliant environment for all users. By adhering to the KYC requirements, both new and existing users contribute to the prevention of fraud, money laundering, and other illicit activities. Users will be duly informed of any updates or changes to the KYC process through official communication channels.
